@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34514600/README.md)
+
 <p align="center">
   <img src="icon-192.png" width="96" alt="orrery">
 </p>
